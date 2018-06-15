@@ -58,6 +58,7 @@ class WhcgLoginFields extends PolymerElement {
 
     firebase.auth().onAuthStateChanged(user => {
       if(user) {
+        console.log('user!');
         console.log(user);
         this.user = user;
         btnLogout.removeAttribute('hidden');
