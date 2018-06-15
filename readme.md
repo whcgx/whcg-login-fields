@@ -1,7 +1,7 @@
-# &lt;login-fields&gt;
+# &lt;whcg-login-fields&gt;
 
 ```html
-<login-fields apikey="{{apikey}}" projectId="{{projectid}}"user="{{user}}"></login-fields>
+<whcg-login-fields apikey="{{apikey}}" projectId="{{projectid}}"user="{{user}}"></whcg-login-fields>
 ```
 
 ## Getting started 
