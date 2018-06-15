@@ -1,0 +1,25 @@
+{
+  "name": "@whcg/whcg-login-fields",
+  "version": "1.0.9",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.es6.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "files": [
+    "dist"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^0.60.4",
+    "rollup-plugin-node-resolve": "^3.3.0"
+  },
+  "dependencies": {
+    "@polymer/polymer": "^3.0.2",
+    "@vaadin/vaadin-button": "^2.0.0-pre.4",
+    "@vaadin/vaadin-text-field": "^2.0.1-pre.2"
+  }
+}
