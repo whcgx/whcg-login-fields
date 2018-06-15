@@ -10,7 +10,7 @@ Login with email and password. Returns the property *user* and sets path prefix 
 
 ## Dependencies
 
-&lt;login-check&gt; is a Polymer 3 element with the following dependencies: 
+&lt;whcg-login-check&gt; is a Polymer 3 element with the following dependencies: 
 - npm i @polymer/polymer
 - npm i @vaadin/vaadin-text-field
 - npm i @vaadin/vaadin-button
