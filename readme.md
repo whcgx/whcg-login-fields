@@ -6,7 +6,7 @@
 
 ## Getting started 
 
-Login with email and password. Returns the property *user*.
+Login with email and password. Returns the property *user* and sets path prefix to "user" if logged in or "start" if not logged in.
 
 ## Dependencies
 
